@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_ic_email_icon.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/ic_email_icon.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/layout_activity_profile.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_ic_lock_icon.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/ic_lock_icon.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_profile.jpg.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/profile.jpg"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_ic_phone_icon.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/ic_phone_icon.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_ic_person_icon.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/ic_person_icon.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_ic_person.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/layout_imagecontainer.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/layout/imagecontainer.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.celestialjewel.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.celestialjewel.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/font_cinzel_decorative.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/font/cinzel_decorative.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.celestialjewel.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_ic_phone_focused.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/ic_phone_focused.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/layout_item_cart.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/menu_bottom_nav.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_five.webp.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/five.webp"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.celestialjewel.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_background.png.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/background.png"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_ic_lock.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_six.webp.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/six.webp"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/font_agdasima.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/font/agdasima.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/font_amethysta.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/font/amethysta.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/font_inknut_antiqua_light.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/font/inknut_antiqua_light.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_logo.png.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/font_cinzel_decorative_bold.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/font/cinzel_decorative_bold.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/layout_activity_cart.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_circle_background.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_home.png.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/home.png"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_one.webp.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/one.webp"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_ic_email_focused.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/ic_email_focused.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/layout_activity_forgot_password.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/font_amarante.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/font/amarante.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_shop.png.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/shop.png"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.celestialjewel.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/font_abeezee.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/font/abeezee.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_ic_phone.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/layout_activity_registration.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/font_anton.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/font/anton.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/layout_activity_home_page.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.celestialjewel.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_cart.png.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/cart.png"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_four.webp.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/four.webp"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_ic_lock_focused.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/ic_lock_focused.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.celestialjewel.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/layout_jewelry_card.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/layout/jewelry_card.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/layout_activity_shop.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/layout/activity_shop.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.celestialjewel.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_two.webp.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/two.webp"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.celestialjewel.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_ic_person_focused.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/ic_person_focused.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_ic_add.png.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/ic_add.png"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/layout_activity_jewelry_detail.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/layout/activity_jewelry_detail.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_ic_email.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_ic_menu_minus.png.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/ic_menu_minus.png"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_textfield_border.xml.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/textfield_border.xml"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/drawable_three.webp.flat",
+        "source": "com.example.celestialjewel.app-main-34:/drawable/three.webp"
+    },
+    {
+        "merged": "com.example.celestialjewel.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.celestialjewel.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]
